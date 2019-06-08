@@ -124,5 +124,8 @@ vcs.xml
 .vscode
 
 # db
-.sqlite3
+db.sqlite3
+
+# directory
+.directory
 
